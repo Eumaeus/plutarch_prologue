@@ -2,9 +2,12 @@
 
 ## Introduction
 
-This is an introduction to the Prologue to Plutarch's collection of essays *On the Excellence of Women*. This is a work originally written in Ancient Greek in the 2nd Century BCE. The version of the text that I worked with was translated by Frank Cole Babbitt, published in 1931.[^babbitt] I am publishing this digital edition under an open license, with documentation.
+This is an introduction to the Prologue to Plutarch's collection of essays *On the Excellence of Women*. This is a work originally written in Ancient Greek in the 2nd Century BCE. The version of the text that I worked with was translated by Frank Cole Babbitt, published in 1931.[^babbitt] A transcription of Babbitt's translation was published online as HTML in the early 21st Century by Bill Thayer.[^thayer] I am publishing this digital edition under an open license, with documentation.
 
 [^babbitt]: Frank Cole Babbitt, trans. *Plutarch’s Moralia*, Vol. 3, 172a-263c (Heinemann, 1931).
+
+[^thayer]: Thayer, Bill. “Plutarch • On the Bravery of Women.” LacusCurtius, May 29, 2016. http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/home.html.
+
 
 ## Plutarch
 
